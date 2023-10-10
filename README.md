@@ -1,8 +1,6 @@
 # 미리보기
-![회원가입](https://github.com/vilose7222/final_project_go90/assets/141006779/b53189c4-e7d5-4308-9abb-a6450e8cebaa)
-![로그인창](https://github.com/vilose7222/final_project_go90/assets/141006779/9b4bb497-0790-4a4e-a6da-0b5ef90cd502)
-![게시판33](https://github.com/vilose7222/final_project_go90/assets/141006779/7a87319b-4827-4541-8950-0d2f1981b5d0)
-![프로젝트설명](https://github.com/vilose7222/final_project_go90/assets/141006779/eabdfd9b-cb7c-4a06-8919-753990bb6ff9)
+![ezgif com-gif-maker](https://github.com/vilose7222/final_project_go90/assets/141006779/38316584-546c-4dea-91e5-60a6dc2eed59)
+
 
 
 ## 개요
